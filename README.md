@@ -13,7 +13,7 @@ Most QA leaders evaluate tooling. I write it:
 
 ## Credentials
 - ISTQB Advanced Level Test Manager (2018)
-- ISTQB Advanced Level Test Analyst (2017)
+- ISTQB Advanced Level Test Analyst (2013)
 - ISTQB Certified — Agile Extensions (2017)
 
 ## How I work
